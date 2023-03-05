@@ -46,7 +46,7 @@ body{
     }
 }
 
-@media screen and (max-width: 390px){
+@media screen and (max-width: 460px){
     .container{
         width: 300px;
         padding: 25px 30px;
