@@ -7,6 +7,14 @@ body{
     justify-content: center;
     align-items: center;
 }
+.title img{
+    font-size: 18px;
+    width: 100px;
+    height: 100px;
+}
+.title p{
+
+}
 @media screen and (max-width: 1920px){
     .container{
         width: 380px;
